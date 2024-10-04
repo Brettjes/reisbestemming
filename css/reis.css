@@ -1,0 +1,127 @@
+body{
+	font-family: helvetica, sans-serif; 
+}
+
+a.link1{
+	color: #FF5A33;
+	text-decoration: none;
+}
+
+a.link1:hover{
+	color: #146152;
+}
+
+
+h1{
+	font-family: revert;
+	font-size: 100px;
+	text-align: center;
+	color: darkred;
+	background-color: wheat;
+}
+
+h2{
+	font-family: revert-layer;
+	font-size: 40px;
+}
+
+h2.hhotels{
+	text-align: center;
+}
+
+p.photton{
+	text-align: left;
+	font-size: 26px;
+}
+
+.bezien{
+	text-align: center;
+	font-family: revert;
+	color: #B4CF66;
+	font-size: 60px;
+}
+
+div.riveo{
+	text-align: right;
+	margin-left: 50%;
+}
+
+div.grotton{
+	text-align: left;
+	margin-right: 50%;
+}
+div.container{
+	text-align: center;
+}
+
+div.tabel{
+	display: flex;
+    justify-content: center;
+}
+
+div.trein{
+	text-align: left;
+	margin-right: 50%;
+}
+
+figure{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+a.grot{
+	color: #FF5A33;
+	text-decoration: none;
+	font-size: 50px;
+	
+}
+
+a.grot:hover{
+	color: blue;
+}
+
+a.rivier{
+	color: #FF5A33;
+	text-decoration: none;
+	font-size: 50px;
+}
+
+a.rivier:hover{
+	color: blue;
+}
+
+.oud{
+	text-align: left;
+	margin-right: 50%;
+	line-height: 30px;
+}
+
+.ancien{
+	text-align: right;
+	margin-left: 50%;
+	line-height: 30px;
+}
+
+.acht{
+	text-align: left;
+	margin-right: 50%;
+	line-height: 30px;
+}
+
+article.arden{
+	text-align: right;
+	margin-left: 50%;
+	line-height: 30px;
+}
+
+h3.vervoer{
+	text-align: center;
+	font-size: 30px;
+}
+
+table.tabelvervoer{
+	display: flex;
+    justify-content: center;
+
+}
